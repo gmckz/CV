@@ -63,6 +63,8 @@ _Trusts & Foundations Volunteer_
 
 ## Skills
 
+# TODO
+
 Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
 
 Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had.
