@@ -27,20 +27,20 @@ _Store Assistant_
 -   Responded to customer queries and directed them to items they were looking for, making recommendations where appropriate.
 -   Delighted customers with free products using “its on us” scheme, resulting in happy customers that returned regularly.
 
-**Anna Freud National Center for Children and Families** (Nov. 2019 to Jun.2021)  
+**Anna Freud National Center for Children and Families** (Nov. 2019 to Jun. 2021)  
 _Training Officer_
 
 -   Collaborated with external web developers to build courses on a new online training platform and managed online content using a Content Management System.
 -   Managed the administration of bespoke training packages to national and international organisations, including scheduling training dates, drafting contracts and preparing training materials.
 -   Resolved customer queries and updated records using team inbox and CRM.
 
-**Queen Mary University of London** (Feb. 2019 to Nov.2019)  
+**Queen Mary University of London** (Feb. 2019 to Nov. 2019)  
 _Exams and Assessment Administrator_
 
 -   Co-ordinated the secure compilation and submission of 200 examination papers for the summer 2019 exam period in accordance with University guidelines.
 -   Scheduled timetables for oral exams efficiently and effectively.
 
-**Pearson** (Apr. 2016 to Feb.2019)  
+**Pearson** (Apr. 2016 to Feb. 2019)  
 _Subject Leader & Subject Coordinator_
 
 -   Managed production of question papers for A Level Biology qualifications, ensuring all materials produced were of high quality and met OfQual requirements.
@@ -55,7 +55,7 @@ _Volunteer classroom assistant_
 -   Supported individuals and small groups of Y2 pupils in literacy, numeracy and comprehension.
 -   One to one reading practice with pupils.
 
-**Child.org** (Mar.2020 to May 2020)  
+**Child.org** (Mar. 2020 to May 2020)  
 _Trusts & Foundations Volunteer_
 
 -   Created a database of trusts, foundations and organisations to apply to for funding of projects and put together a timeline for submissions.
@@ -81,6 +81,8 @@ I honed my communication skills while completing my thesis at university, which 
 -   A link to some on-line evidence (blogs, videos, articles, etc.)
 
 #### Another skill
+
+communication, collaboration,
 
 ## Education
 
