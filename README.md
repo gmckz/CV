@@ -78,20 +78,20 @@ _Trusts & Foundations Volunteer_
 -   Makers:
 -   Waitrose:
 -   Westfield Primary School:
--   Anna Freud:
--   Child.org:
--   Queen Mary:
+-   Anna Freud: online training platform content management, database management with raisers edge, created new project tracker using microsoft plugins that tracked training events from enquiry to delivery to automate administration tasks
+-   Child.org: created database of potential funding sources to apply to
+-   Queen Mary: SIMS,
 -   Pearson:
 
 #### Attention to detail
 
 -   Makers: wrote clean code, helped debugging - especially when pairing
--   Waitrose:
+-   Waitrose: accurately picking customer orders, searching for offsales in warehouse to ensure stock availability on shop floor
 -   Westfield Primary School:
--   Anna Freud:
--   Child.org:
--   Queen Mary:
--   Pearson:
+-   Anna Freud: online training platform, quickly spotted and reported bugs after new feature updates, spotted spelling and grammar errors in training materials prior to publishing
+-   Child.org: proof-read funding bid made to Gates Foundation and spotted spag errors before it was submitted
+-   Queen Mary: proof read question papers to ensure error free before submission, scheduling oral exams required attention to detail to ensure that there were no clashes with students other exams or examiners schedules
+-   Pearson: proof-read and checked requested changes made correctly by typesetters after each version, spotted factual and spag errors in exam papers that were my special subject
 
 #### Problem Solving
 
