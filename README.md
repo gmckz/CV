@@ -65,43 +65,15 @@ _Trusts & Foundations Volunteer_
 
 #### Communication
 
--   Makers: communicating with team when working on acebook. was able to communicate frustrations with project and organise a team retro to get back on track
--   Waitrose: communicating with customers to resolve their queries or make recommendations
--   Westfield primary school: communicating concepts to 6/7 year olds of different abilities
--   Anna Freud: communicating with software developers to build online training platform. communicated clear brief on what we needed.
--   Child.org: communicating with volunteers and potential donors.
--   Queen Mary: communicating with students to resolve queries, communicating with examiners,
--   Pearson: communicating technical information in understandable way when reporting on exam boundary analysis
-
-#### Analytical and Technical
-
--   Makers:
--   Waitrose:
--   Westfield Primary School:
--   Anna Freud: online training platform content management, database management with raisers edge, created new project tracker using microsoft plugins that tracked training events from enquiry to delivery to automate administration tasks
--   Child.org: created database of potential funding sources to apply to
--   Queen Mary: SIMS,
--   Pearson:
+I am experienced in communicating ideas to a diverse range of people, from subject experts to 6-7 year olds. During my time working at the Anna Freud Center, I worked on a project to build a new online training platform which involved communicating with software developer consultants to brief them on our requirements and giving feedback when new features did not meet our specifications. This experience proved to be valuable during my time at Makers as I was able to appreciate the need for strong communication from both sides, both as a client and as a software developer.
 
 #### Attention to detail
 
--   Makers: wrote clean code, helped debugging - especially when pairing
--   Waitrose: accurately picking customer orders, searching for offsales in warehouse to ensure stock availability on shop floor
--   Westfield Primary School:
--   Anna Freud: online training platform, quickly spotted and reported bugs after new feature updates, spotted spelling and grammar errors in training materials prior to publishing
--   Child.org: proof-read funding bid made to Gates Foundation and spotted spag errors before it was submitted
--   Queen Mary: proof read question papers to ensure error free before submission, scheduling oral exams required attention to detail to ensure that there were no clashes with students other exams or examiners schedules
--   Pearson: proof-read and checked requested changes made correctly by typesetters after each version, spotted factual and spag errors in exam papers that were my special subject
+I had an excellent opportunity to refine my attention to detail skills while working at Pearson. A large part of my roles as subject coordinator and subject leader was performing quality checks on assessment materials such as exam papers after each stage of amendments. On many occasions I was able to promptly spot spelling errors, typos or mistakes in diagrams made by typesetters and ensure these were amended before final sign off. This resulted in our assessment materials meeting OfQual standards and avoided any issues that would have resulted if errors were found in materials by students or teachers on the day of the exam.
 
 #### Problem Solving
 
--   Makers:
--   Waitrose:
--   Westfield Primary School:
--   Anna Freud:
--   Child.org:
--   Queen Mary:
--   Pearson:
+Studying Physics at the University of Nottingham equipped me with excellent problem solving skills through practice deriving theoretical principles and executing experiments in lab based projects. These skills were invaluable during my time at Makers as I was able to approach project specifications and coding problems in a methodical and thorough manner by breaking the task down into smaller manageable chunks and embracing test driven development practices.
 
 ## Education
 
