@@ -1,6 +1,6 @@
 ## Gemma McKenzie
 
-I am a self-motivated, creative and mission-driven problem solver with a keen eye for detail hoping to thrive and develop my software development skills at a company that is leveraging their tech for good. My experience working in the education and charity sectors highlighted how these industries could be more impactful by embracing new technology. The opportunity to collaborate on the development of an online training platform at a previous role sparked a passion for designing and building web apps, which eventually led me to a career change into tech.
+My experience working in the education and charity sectors highlighted how these industries could be more impactful by embracing new technology. I frequently found myself using the technologies available to me to build workflows and streamline time consuming administrative tasks to free up time for more impactful tasks. The opportunity to collaborate on the development of an online training platform at a previous role sparked a passion for designing and building web apps, which eventually led me to a career change into tech. I now hope to bring my unique professional experience in education and charity and further develop my software development skills at a company that is leveraging their tech for good.
 
 ## Projects
 
