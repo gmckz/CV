@@ -23,15 +23,16 @@ _Software Engineering Student_
 **Waitrose** (Dec. 2021 to May 2023)  
 _Store Assistant_
 
--   Accurately picked customer’s online shopping orders and selected appropriate substitutions in cases of stock availability.
--   Responded to customer queries and directed them to items they were looking for, making recommendations where appropriate.
--   Delighted customers with free products using “its on us” scheme, resulting in happy customers that returned regularly.
+-   Managed and optimised the online shopping experience for customers by ensuring accurate order fulfilment and suggesting suitable alternatives when products were out of stock.
+-   Effectively addressed customer inquiries, guiding them to their desired products, and providing personalised recommendations when necessary.
+-   Enhanced customer satisfaction through proactive engagement, leveraging the 'it's on us' initiative to surprise customers with complimentary items, fostering repeat business and positive feedback.
 
 **Anna Freud National Center for Children and Families** (Nov. 2019 to Jun. 2021)  
 _Training Officer_
 
 -   Collaborated with external web developers to build courses on a new online training platform and managed online content using a Content Management System.
 -   Managed the administration of bespoke training packages to national and international organisations, including scheduling training dates, drafting contracts and preparing training materials.
+-   Optimised workflow for taking training queries through to booking and delivery using Microsoft Plugins.
 -   Resolved customer queries and updated records using team inbox and CRM.
 
 **Queen Mary University of London** (Feb. 2019 to Nov. 2019)  
